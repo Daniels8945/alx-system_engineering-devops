@@ -1,5 +1,3 @@
 #!/bin/bash
-SCHOOLfnord
-school data
-file --magic-file=magic --compile
-file --magic-file=magic.mgc input
+0 string SCHOOL school data
+!:mime school
